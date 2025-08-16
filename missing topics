@@ -1,0 +1,275 @@
+DOM vs BOM /, 
+event propagation(bubbling and capturing)/, 
+event delegation/, 
+primitive vs non-primitive data types/, 
+regular function vs arrow function/, 
+is it possible to use arrow function as constructor?,/ 
+hoisting,/ 
+array.flat()/, 
+array map vs foreach/, 
+array reduce to find sum of even numbers - not done//, 
+remove vowels from string - not done//, 
+object freeze vs seal/, 
+how to check whether the given object is empty or not?//, 
+how to remove a property from object?//, 
+promise combinators, 
+proxy object,|||| 
+prototypical inheritance/, 
+concurrency/, 
+child process/, 
+package.json vs package-lock.json, 
+api end point to do file operations ||- not done, 
+middleware types//, 
+app.use vs app.set//, 
+app.all//, 
+app.locals, 
+idempotency, 
+content negotiation, 
+dynamic routing, 
+router chaining, 
+preflight request, 
+CORS, 
+web api vs REST api, 
+NoSQL types, 
+capped collection, 
+journaling, 
+drawbacks of indexing, 
+index types, 
+covered query, 
+$pop vs $pull, 
+$unwind, 
+$lookup, 
+upsert, 
+query - avg mark in class 10, 
+query - increase all marks by 10%, 
+query - names starting with vowel, 
+singleton service, 
+decorator, 
+type casting vs type assertion, 
+router guard types, 
+http interceptor, 
+pure pipe vs impure pipe, 
+async pipe, 
+promise vs observable, 
+subject, 
+on-push change detection strategy, 
+signal, 
+static vs dynamic memory allocation, 
+complexity, 
+drawbacks of binary search, 
+advantages of recursion, 
+degree of a tree, 
+spanning tree, 
+rehashing, 
+stack underflow, 
+count BST leaf nodes - not known, 
+create queue using stack - not known,
+
+
+
+
+
+
+
+-----------------------------
+
+
+JS
+Callbacks
+async-await vs promise.then()
+Function borrowing using bind - code explanation 
+Error objects
+instanceof
+Rest operator
+Pure functions
+
+Node
+Concurrency in Node.js
+setImmediate
+Design patterns - MVC
+res.write vs res.send
+
+React
+Custom hooks example
+useMemo dependency list
+Render props
+useRef
+Lazy loading syntax
+Error boundary
+Hooks in redux-toolkit
+Store in redux
+JWT structure
+JWT verify
+
+MongoDB
+BSON datatypes
+
+DSA
+Divide and Conquer
+Recursion
+Collision resolution techniques
+Weighted graphs
+Backtracking
+Tree root node
+Complete binary tree
+Deletion in heap
+BST
+Loop in graphs
+
+
+
+
+[6:51 PM, 11/18/2024] Susmitha BCR 34 S✨: 
+JS
+- structuredClone
+- boxing *
+- WebAPIs
+- the idea API
+- Map vs object
+- abstraction
+- getters, setter
+- creating errors
+- first class functions vs HOF
+- multiple fetch requests at the same time *
+- password validator (8 length, aA, digits, special chars)
+- closure syntax
+- merge two objects together
+- check if object is empty
+- revise error handling 
+- new keyword
+- longest word in string
+- today’s date without time
+- countdown timer (10 to 0)
+Score: 2.5
+
+DB
+- CAP theorem
+- isolation
+- developers who know python or java but not both
+- developers who know at least 4 skills 
+- decrease salary by 20%
+Not covered!
+Score: 2
+
+Frontend
+- viewport
+- querySelectorAll() for classes
+- immutability of state
+- debouncing 
+- synthetic events
+- useLayoutEffect 
+- ESModules 
+- Error boundary 
+- redux middleware 
+- types of routers *
+Score: 3
+
+Backend
+- concurrency vs parallelism
+- using environment variables (setting them using terminal as well)
+- CommonJS
+- os module
+- crypto module
+- fs operations 
+- express.engine() 
+- express.set()
+- query params vs path params 
+- HTTP 401, 201, 403
+- setting HTTP status code 
+- XSS
+- JWT signature purpose
+- refresh token
+- httpOnly cookies
+- reverse proxy
+- DNS
+- linux command for creating file
+- pm2
+Revise hosting topics
+Score: 2.5
+
+DSA
+- kilobyte
+- load factor
+- adjacency 
+- backtracking 
+- stack underflow
+- separate chaining 
+- preorder traversal
+- escape sequences
+- UTF-8
+- BST implementation
+- selection sort
+- Stack implementation
+Score: 2
+
+Theory :3
+Practical :2
+Vishnu GR
+Turn on screen reader support
+To enable screen reader support, press Ctrl+Alt+Z To learn about keyboard shortcuts, press Ctrl+slash
+[6:51 PM, 11/18/2024] Susmitha BCR 34 S✨: Pending 
+
+Generator function (print even numbers in reverse order with 1 sec delay)
+Proxy Object
+Coercion(types)
+Memoization
+Weakmap
+polyfills
+debouncing
+some
+every
+add numbers into a array using 
+promise
+promise.allsettled() vs promise.all()
+includes
+write datetime into a file using fs module
+libuv(need clarity)
+how node js handles concurrent request
+improve performance using clustering
+create http server with get and post endpoint and create a middleware to block post requests
+event emitter(need clarity)
+PATCH
+preflight request(need clarity)
+transform stream
+$sort
+$limit
+$bulkwrite
+covered query
+$lookup
+indexing and its type(need clarity)
+create index
+ttl indexing
+journals
+Binary search
+find count of sub string from a main string
+implementation using hash table
+Detect cycles in a graph using
+implementation using trie
+implement communication between child component to parent
+implement communication between parent component to child
+Shadow DOM
+Synthetic event
+redux saga
+redux thunk(need clarity)
+pure component
+useMemo
+context api(need clarity)
+useref
+forward ref
+reduce
+prototype(need clarity)
+
+
+ds-2 
+mong 3
+ js-4
+ node -4
+ react 3
+
+Theory:3.5
+Practical:3.5
+
+
+
+
+Your Application ID. is 211124PX304W, Please note down this number for future reference.
